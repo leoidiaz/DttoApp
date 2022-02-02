@@ -33,4 +33,4 @@ This policy is effective as of 2022-01-22
 
 If you have any questions or suggestions about my
 Privacy Policy or the app itself, do not hesitate to contact me:
-[here](mailto:leonardoidiaz.dev@gmail.com)
+[leonardoidiaz.dev+dtto@gmail](mailto:leonardoidiaz.dev+dtto@gmail.com)

@@ -16,3 +16,6 @@ permalink: /faq/
 
 ### Who is Dtto for?
 - For content creators, photography enthusiasts, digital imaging technicians, or pretty much any one that wants to archive files.
+
+### Have more questions?
+- Contact[leonardoidiaz.dev+dtto@gmail](mailto:leonardoidiaz.dev+dtto@gmail.com)
