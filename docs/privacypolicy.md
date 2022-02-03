@@ -24,6 +24,7 @@ For more information on rsync on their website here: [rsync.samba.org](https://r
 If anyone would like to see the source code of Dtto, I would be happy to share it on request.
 
 ### Changes to this Privacy Policy
+
 Data collection will never happen on Dtto. 
 If this privacy policy is updated, it will be mentioned within the app and on the app store details screen. 
 
