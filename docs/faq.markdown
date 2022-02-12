@@ -6,7 +6,7 @@ permalink: /faq/
 
 ### What is Dtto?
 
-- Dtto is an easy to use file archiving tool.
+- Dtto is an easy to use file archiving tool that efficiently checks the differences between the folders you selected and only updates the changes.
 
 ### Can files be deleted?
 
