@@ -6,3 +6,4 @@ layout: post
 ---
 
 <h1 align="center">D<em>TT</em>O</h1>
+![Dtto Workspace](assets/images/workspace.png)
