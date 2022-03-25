@@ -8,7 +8,9 @@ permalink: /faq/
 
 - Dtto is an easy to use file archiving tool that efficiently checks the differences between the folders you selected and only updates the changes.
 
+<div class="iframe-container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/edqTUU8rLPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Can files be deleted?
 
